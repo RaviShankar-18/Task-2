@@ -1,0 +1,42 @@
+ body {
+
+      background-color: aquamarine;
+    }
+
+    .head {
+      color: darkblue;
+    }
+
+    #bglime {
+      background-color: lime;
+      color: red;
+    }
+
+    p {
+      color: white;
+    }
+
+    #para {
+      color: green;
+    }
+
+    span {
+      color: black;
+      font-size: larger;
+    }
+
+    #list2 {
+      color: blue;
+    }
+
+    #list3 {
+      color: red;
+    }
+
+    a[href="https://upskillmafia.com/mern/"]{
+      background-color: yellow;
+    }
+
+    a[href="https://www.google.com/"]{
+      background-color:blue ;
+    }
